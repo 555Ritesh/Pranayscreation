@@ -184,9 +184,9 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
                   Connect with us on social media for updates, behind-the-scenes glimpses, and more:
                 </p>
                 <div class="footer-contacts">
-                  <p><span>Phone :</span> +91 9665084301</p>
-                  <p><span>General Inquiries :</span> pranayscreation36@gmail.com</p>
-                  <p><span>Project Collaboration :</span> pranayscreation36@gmail.com</p>
+                  <p><span>Phone :</span> +91 96XXXXXXXX</p>
+                  <p><span>General Inquiries :</span> emailaddress@gmail.com</p>
+                  <p><span>Project Collaboration :</span> emailaddress@gmail.com</p>
                   <p><span>Working Hours :</span> 5pm-10pm</p>
                 </div>
               </div>
