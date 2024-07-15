@@ -1,10 +1,10 @@
 # Pranay's Creation
 Educational website for video editing, technology used HTML5, CSS3, Bootstrap, PHP and MySQL
 
-<img src="images/img1.png" alt="Project image1" width="100%" height="777">
-<img src="images/img2.png" alt="Project image2" width="100%" height="777">
-<img src="images/img4.png" alt="Project image4" width="100%" height="777">
-<img src="images/img3.png" alt="Project image3" width="100%" height="777">
+<img src="img/img1.png" alt="Project image1" width="100%" height="777">
+<img src="img/img2.png" alt="Project image2" width="100%" height="777">
+<img src="img/img4.png" alt="Project image4" width="100%" height="777">
+<img src="img/img3.png" alt="Project image3" width="100%" height="777">
 
 
 
