@@ -16,6 +16,6 @@ After Login Home Page :
 
 
 
-Note : Here the signup and login page will not work beacause it requires XAMPP server active 
-and have to setup MySQL and Apache 
+Note : Here the signup and login page will not work beacause it requires XAMPP activated 
+and have to start MySQL and Apache servers.
 
